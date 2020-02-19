@@ -1,3 +1,4 @@
+//19/02/2020
 //Robotun 1. eklemi referans noktansý (0,0) olarak alýnmýþtýr.
 
 #include <stdio.h>
